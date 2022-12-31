@@ -11,11 +11,12 @@ class script(object):
 ✯ 𝙱𝙾𝚃 𝚂𝙴𝚁𝚅𝙴𝚁: KOYEB
 ✯ 𝙱𝚄𝙸𝙻𝙳 𝚂𝚃𝙰𝚃𝚄𝚂: v1.0.1 [ 𝙱𝙴𝚃𝙰 ]"""
     SOURCE_TXT = """<b>NOTE:</b>
-- MovieMania-AutoFilterBot is a open source project. 
-- Source - https://github.com/itsyogieu/TechMagazine-AutoFilterBot
+- അയ്യേ... പറ്റിച്ചേ...😆
 
-<b>DEVS:</b>
-- <a href=https://t.me/TechMagazineYT>TechMagazine</a>"""
+എന്തായാലും വന്നതല്ലേ. ഇവിടെ കാണുന്ന Channel/ Group ൽ ഒക്കെ join ചെയ്തേക്ക് 😎
+
+<b>GROUP LINK👇🏻:</b>
+- <a href=https://t.me/Moviemania_TG>MovieMania</a>"""
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
 - Filter is the feature were users can set automated replies for a particular keyword and EvaMaria will respond whenever a keyword is found the message
